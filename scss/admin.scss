@@ -1,0 +1,20 @@
+.custom-dash {
+	height: 1px; 
+	border-top: 1px dashed #ddd; 
+	width: 100%; 
+	margin: 25px 0;	
+}
+.widget-content {
+	h4 {
+		color: blue;
+		font-size: 16px;
+		margin-bottom: 10px;
+	}
+	input[type="number"] {
+		float: right;
+		width: 45px;
+	}
+	label {
+		display: inline-block;
+	}
+}

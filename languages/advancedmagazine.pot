@@ -1,0 +1,622 @@
+# Copyright (C) 2016 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: AdvancedMagazine 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2018-01-07 23:48+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: HappyThemes <support@happythemes.com>\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "404 Error - Page Not Found"
+msgstr ""
+
+#: 404.php:21
+msgid "Sorry, but it looks like nothing was found at this location. You may try one of the links below or do a search."
+msgstr ""
+
+#: 404.php:39 template-parts/content-none.php:34
+msgid "Most Used Categories"
+msgstr ""
+
+#: admin/customizer-options.php:38
+msgid "Theme Settings"
+msgstr ""
+
+#: admin/customizer-options.php:44
+msgid "Logo"
+msgstr ""
+
+#: admin/customizer-options.php:52
+msgid "Favicon"
+msgstr ""
+
+#: admin/customizer-options.php:60
+msgid "Site Layout"
+msgstr ""
+
+#: admin/customizer-options.php:69
+msgid "Left quote image"
+msgstr ""
+
+#: admin/customizer-options.php:77
+msgid "Left quote header"
+msgstr ""
+
+#: admin/customizer-options.php:80
+msgid "Vladimir Putin"
+msgstr ""
+
+#: admin/customizer-options.php:85
+msgid "Left quote text"
+msgstr ""
+
+#: admin/customizer-options.php:88
+msgid "I never met with him. We have a lot of Americans who visit us"
+msgstr ""
+
+#: admin/customizer-options.php:93
+msgid "Right quote image"
+msgstr ""
+
+#: admin/customizer-options.php:101
+msgid "Right quote header"
+msgstr ""
+
+#: admin/customizer-options.php:104
+msgid "Donald Trump"
+msgstr ""
+
+#: admin/customizer-options.php:109
+msgid "Right quote text"
+msgstr ""
+
+#: admin/customizer-options.php:112
+msgid "I think I've made a lot of sacrifices. I work very, very hard"
+msgstr ""
+
+#: admin/customizer-options.php:117
+msgid "Display header search form"
+msgstr ""
+
+#: admin/customizer-options.php:125
+msgid "Mobile Primary Menu Heading Text"
+msgstr ""
+
+#: admin/customizer-options.php:128 header.php:320
+msgid "Categories"
+msgstr ""
+
+#: admin/customizer-options.php:133
+msgid "Mobile Secondary Menu Heading Text"
+msgstr ""
+
+#: admin/customizer-options.php:136 header.php:331
+msgid "Pages"
+msgstr ""
+
+#: admin/customizer-options.php:141
+msgid "Page URL to display all latest posts"
+msgstr ""
+
+#: admin/customizer-options.php:149
+msgid "Number of excerpt words (archive)"
+msgstr ""
+
+#: admin/customizer-options.php:157
+msgid "Display featured image on single posts"
+msgstr ""
+
+#: admin/customizer-options.php:165
+msgid "Display footer widgets"
+msgstr ""
+
+#: admin/customizer-options.php:173
+msgid "Display social icons on site header"
+msgstr ""
+
+#: admin/customizer-options.php:181
+msgid "Your Facebook URL"
+msgstr ""
+
+#: admin/customizer-options.php:189
+msgid "Your Twitter URL"
+msgstr ""
+
+#: admin/customizer-options.php:197
+msgid "Your Google+ URL"
+msgstr ""
+
+#: admin/customizer-options.php:205
+msgid "Your YouTube URL"
+msgstr ""
+
+#: admin/customizer-options.php:213
+msgid "Your LinkedIn URL"
+msgstr ""
+
+#: admin/customizer-options.php:221
+msgid "Your Pinterest URL"
+msgstr ""
+
+#: admin/customizer-options.php:229
+msgid "Your RSS feed URL"
+msgstr ""
+
+#: admin/extensions/fonts.php:18
+msgid "Standard Fonts"
+msgstr ""
+
+#: admin/extensions/fonts.php:20
+msgid "Google Fonts"
+msgstr ""
+
+#: admin/extensions/fonts.php:125
+msgid "All"
+msgstr ""
+
+#: admin/extensions/fonts.php:126
+msgid "Cyrillic"
+msgstr ""
+
+#: admin/extensions/fonts.php:127
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: admin/extensions/fonts.php:128
+msgid "Devanagari"
+msgstr ""
+
+#: admin/extensions/fonts.php:129
+msgid "Greek"
+msgstr ""
+
+#: admin/extensions/fonts.php:130
+msgid "Greek Extended"
+msgstr ""
+
+#: admin/extensions/fonts.php:131
+msgid "Khmer"
+msgstr ""
+
+#: admin/extensions/fonts.php:132
+msgid "Latin"
+msgstr ""
+
+#: admin/extensions/fonts.php:133
+msgid "Latin Extended"
+msgstr ""
+
+#: admin/extensions/fonts.php:134
+msgid "Vietnamese"
+msgstr ""
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:53
+msgid "Theme by"
+msgstr ""
+
+#: header.php:169
+msgid "Go"
+msgstr ""
+
+#: header.php:212
+msgid "Menu"
+msgstr ""
+
+#: header.php:282
+msgid "Add menu for: Primary Menu"
+msgstr ""
+
+#: header.php:302
+msgid "Add menu for: Secondary Menu"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:394
+#: inc/classes/class-tgm-plugin-activation.php:3254
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:399
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2368
+msgid "Required"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2371
+msgid "Recommended"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2387
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2390
+msgid "External Source"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2393
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2410
+msgid "Not Installed"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2414
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2416
+msgid "Active"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2422
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2425
+msgid "Requires Update"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2428
+msgid "Update recommended"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2585
+msgid "Installed version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2593
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2605
+msgid "Available version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2642
+msgid "Plugin"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2643
+msgid "Source"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2644
+msgid "Type"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2648
+msgid "Version"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2649
+msgid "Status"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2698
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2703
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2709
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2812
+msgid "Install"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2818
+msgid "Update"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2821
+msgid "Activate"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2854
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2897
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3253
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3593
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3598
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3602
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3604
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3605
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3607
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3610
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3613
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3615
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/template-tags.php:24
+msgid "Views"
+msgstr ""
+
+#: inc/template-tags.php:111
+msgid "Featured this post on homepage"
+msgstr ""
+
+#: inc/template-tags.php:176
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: inc/widgets/widget-ad.php:97
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/widget-ad.php:104
+msgid "Ad Code"
+msgstr ""
+
+#: inc/widgets/widget-home-block-two.php:23
+msgid "Display two-column post blocks. Only use for the \"Homepage Content\" widget area."
+msgstr ""
+
+#: inc/widgets/widget-home-block-two.php:29
+msgid "&raquo; Home Two Columns"
+msgstr ""
+
+#: inc/widgets/widget-home-block-two.php:94
+#: inc/widgets/widget-home-top-section.php:103
+#: inc/widgets/widget-home-two-columns.php:98
+msgid "Choose category for column #1"
+msgstr ""
+
+#: inc/widgets/widget-home-block-two.php:97
+#: inc/widgets/widget-home-block-two.php:108
+#: inc/widgets/widget-home-carousel.php:131
+#: inc/widgets/widget-home-top-section.php:106
+#: inc/widgets/widget-home-top-section.php:134
+#: inc/widgets/widget-home-two-columns.php:101
+#: inc/widgets/widget-home-two-columns.php:129
+msgid "All categories &hellip;"
+msgstr ""
+
+#: inc/widgets/widget-home-block-two.php:105
+#: inc/widgets/widget-home-top-section.php:131
+#: inc/widgets/widget-home-two-columns.php:126
+msgid "Choose category for column #2"
+msgstr ""
+
+#: inc/widgets/widget-home-block-two.php:117
+#: inc/widgets/widget-home-carousel.php:140
+#: inc/widgets/widget-home-top-section.php:115
+#: inc/widgets/widget-home-top-section.php:143
+#: inc/widgets/widget-home-two-columns.php:110
+#: inc/widgets/widget-home-two-columns.php:138
+msgid "Number of posts to show"
+msgstr ""
+
+#: inc/widgets/widget-home-carousel.php:23
+msgid "Display posts in carousel. Only use for the \"Homepage\" widget area."
+msgstr ""
+
+#: inc/widgets/widget-home-carousel.php:29
+msgid "&raquo; Home Carousel"
+msgstr ""
+
+#: inc/widgets/widget-home-carousel.php:128
+msgid "Choose category"
+msgstr ""
+
+#: inc/widgets/widget-home-carousel.php:147
+#: inc/widgets/widget-home-top-section.php:122
+#: inc/widgets/widget-home-top-section.php:150
+#: inc/widgets/widget-home-two-columns.php:117
+#: inc/widgets/widget-home-two-columns.php:145
+msgid "Number of excerpt words"
+msgstr ""
+
+#: inc/widgets/widget-home-top-section.php:23
+msgid "Display the Featured Slider, Category Block and 160x600 Ad. Only use for the \"Homepage\" widget area. "
+msgstr ""
+
+#: inc/widgets/widget-home-top-section.php:29
+msgid "&raquo; Home Top Section"
+msgstr ""
+
+#: inc/widgets/widget-home-top-section.php:159
+msgid "Enter 160x600 Ad Code"
+msgstr ""
+
+#: inc/widgets/widget-home-two-columns.php:23
+msgid "Display two-column post blocks. Only use for the \"Homepage\" widget area. "
+msgstr ""
+
+#: inc/widgets/widget-home-two-columns.php:29
+msgid "&raquo; Home 2 Columns"
+msgstr ""
+
+#: index.php:16
+msgid "Put the \"Home 2 Columns\", \"Home Carousel\" and \"Home Top Section\" widgets to the <strong>Homepage</strong> widget area."
+msgstr ""
+
+#: index.php:17 sidebar.php:23 template-parts/home-top-col1.php:89
+msgid "Okay, I'm doing now &raquo;"
+msgstr ""
+
+#: index.php:17 template-parts/home-top-col1.php:89
+msgid "How To &raquo;"
+msgstr ""
+
+#: page-templates/all-posts.php:22
+msgid "All Recent Posts "
+msgstr ""
+
+#: sidebar.php:22
+msgid "Please put widgets to the <strong>Sidebar</strong>"
+msgstr ""
+
+#: template-parts/content-loop.php:34 template-parts/content-search.php:25
+msgid "Read more &raquo;"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr ""
+
+#: template-parts/content-single.php:41
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/home-carousel.php:4 template-parts/home-top-col1.php:104
+#: template-parts/home-top-col2.php:14 template-parts/home-two-col1.php:6
+#: template-parts/home-two-col2.php:6
+msgid "Latest Posts"
+msgstr ""
+
+#: template-parts/home-top-col1.php:88
+msgid "Please edit posts and set \"Featured Posts\" for this section."
+msgstr ""
+
+#: template-parts/pagination.php:7
+msgid "&laquo; Previous"
+msgstr ""
+
+#: template-parts/pagination.php:7
+msgid "Next &raquo;"
+msgstr ""

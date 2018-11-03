@@ -1,0 +1,29 @@
+#wpadminbar ul#wp-admin-bar-root-default>li.happythemes a {
+  background-color: #94C03B;
+  color: #fff;  
+}
+#wpadminbar ul#wp-admin-bar-root-default>li.happythemes a:hover {
+  opacity: 0.9;
+}
+
+.custom-dash {
+  height: 1px;
+  border-top: 1px dashed #ddd;
+  width: 100%;
+  margin: 25px 0;
+}
+
+.widget-content h4 {
+  color: blue;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.widget-content input[type="number"] {
+  float: right;
+  width: 45px;
+}
+
+.widget-content label {
+  display: inline-block;
+}
